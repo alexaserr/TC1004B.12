@@ -1,2 +1,3 @@
 # TC1004B.12
-Actividades de la materia TC1004B grupo 12
+Implementación del Internet de las Cosas
+Módulo 1: Hardware
